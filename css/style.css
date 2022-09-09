@@ -1,0 +1,46 @@
+
+#title {
+  color: black;
+}
+
+a {
+  color: violet;
+}
+
+.coefficients {
+  color: blueviolet;
+}
+
+mark {
+  color: slategray;
+}
+.points-ua,
+.total-points-ua {
+  color: black;
+}
+
+.place {
+  color: red;
+}
+
+.link {
+  color: black;  
+}
+
+.article  p {
+  color: turquoise;
+}
+
+.rivals .team-points{
+  color: red;
+}
+
+.rivals > p{
+  color: yellowgreen;
+}
+
+.footer  {
+  color: red;
+}
+
+
